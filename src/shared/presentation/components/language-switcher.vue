@@ -7,6 +7,7 @@
                     :options="$i18n.availableLocales">
     <template #option="slotProps">
       <span>{{slotProps.option.toUpperCase()}}</span>
+      </template>
   </pv-select-button>
 </template>
 

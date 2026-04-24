@@ -6,7 +6,7 @@ import FooterContent from "./footer-content.vue";
 
 const drawerVisible = ref(false);
 const toggleDrawer = () => {
-  draweVisible.value = !drawerVisible.value;
+  drawerVisible.value = !drawerVisible.value;
 };
 </script>
 
